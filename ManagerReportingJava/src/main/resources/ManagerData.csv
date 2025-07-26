@@ -1,0 +1,14 @@
+Id,firstName,lastName,salary,managerId
+123,Joe,Doe,60000,123
+124,Martin,Chekov,25000,123
+125,Rob,Ronstad,47000,123
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,34000,300
+426,Robert,Bing,47000,305
+427,Jen,Cluster,17000,426
+428,John,Logan,1000,124
+500,Wen,Petrol,15000,428
+501,Elizabeth,Water,25000,428
+600,Richard,Wing,65000,427
+601,Sunithi,Chandra,65000,305
+701,Indrani,Chauhan,65000,601
